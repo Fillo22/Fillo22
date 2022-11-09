@@ -6,18 +6,18 @@
   * [Linkedin](https://www.linkedin.com/in/filippo-carraro-cloud/?locale=en_US)
   * [Twitter](https://twitter.com/Fillo_C)
  
-At the moment, I'm working as Azure IoT Senior Consultant for Avanade Italy.
+At the moment, I'm working as Azure IoT Senior Consultant for Avanade Italy. <br>
 Currently, I hold these certifications:
 
-- AZ-900: Microsoft Azure Fundamentals
+- **AZ-900**: Microsoft Azure Fundamentals
 
-- AZ-220: Microsoft Azure IoT Developer Specialty
+- **AZ-220**: Microsoft Azure IoT Developer Specialty
 
-- AZ-204: Microsoft Azure Developer Associate
+- **AZ-204**: Microsoft Azure Developer Associate
 
-- AZ-104: Microsoft Azure Administrator Associate
+- **AZ-104**: Microsoft Azure Administrator Associate
 
-- AWS DVA-C01: AWS Certified Developer Associate
+- **AWS DVA-C01**: AWS Certified Developer Associate
 
 <!---
 Fillo22/Fillo22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
