@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/Fillo22"><img src="https://api.daily.dev/devcards/9fa3bec7124348d1989bb24d7321fb7b.png?r=ybp" width="400" alt="Filippo's Dev Card"/></a>
+
 - 👋 Hi, I’m @Fillo22
 - 👀 I’m interested in IoT, Microsoft, Apple and tech stuff
 - 🌱 I’m currently learning python and upgrading myself on dotnet
